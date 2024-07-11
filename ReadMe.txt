@@ -17,6 +17,8 @@ Abstract Idea Of Our Project:
 
 5.Fricitonally controlled legs are used for providing grip and movement of this system in the cross-section of the pipe
 
-5.This solves the problem of breaking the wall for locating the leak.
+6.This solves the problem of breaking the wall for locating the leak.
 
-6.In the course of time, we also want to add a module which can detect as well as repair the leaks from inside using specific sealants. This can be a major breakthrough as it promises zero infrastructure-damage.
+7.In the course of time, we also want to add a module which can detect as well as repair the leaks from inside using specific sealants. This can be a major breakthrough as it promises zero infrastructure-damage.
+
+Team Members: Srikar, Vignesvern, Vatsav, Nikhita
