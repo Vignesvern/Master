@@ -22,3 +22,5 @@ Abstract Idea Of Our Project:
 7.In the course of time, we also want to add a module which can detect as well as repair the leaks from inside using specific sealants. This can be a major breakthrough as it promises zero infrastructure-damage.
 
 Team Members: Srikar, Vignesvern, Vatsav, Nikhita
+
+Mentor: Dr. Dhivya S
